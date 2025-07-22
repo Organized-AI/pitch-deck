@@ -128,10 +128,10 @@ layout: two-cols
 - Focus on iteration and refinement
 - Build intuition for what works
 
-### **Hands-On Workshop Format**
-- Live events with practical application
-- Real-time problem solving
-- Immediate feedback and iteration
+### **Progressive Skill Building**
+- Start with AI-assisted development
+- Graduate to engineering best practices
+- Develop systems thinking
 
 ### **Monetization Focus**
 - Not just learning for learning's sake
@@ -152,42 +152,14 @@ layout: two-cols
 - Community onboarding
 
 ## **Phase 2: Application**
-- Live workshops & events
-- Real projects & hackathons
+- Real projects
 - Collaboration skills
+- Portfolio building
 
 ## **Phase 3: Professional**
 - Engineering best practices
 - Systems thinking
 - Career preparation
-
-</v-clicks>
-
----
-layout: center
-class: text-center
----
-
-# Our Events: Two Tracks, One Community
-## Bridging AI Innovation with Traditional Excellence
-
-<v-clicks>
-
-### **🚀 Vibe Coding Hackathons**
-*For AI-assisted developers learning to command tools effectively*
-- Focus on rapid iteration and AI collaboration
-- Emphasis on creative problem-solving
-- Building intuition for AI-human workflows
-
-### **⚡ Traditional Competitive Tracks**
-*For builders who want conventional coding challenges*
-- Algorithm-focused competitions
-- Performance optimization challenges
-- Classic software engineering problems
-
-<br>
-
-> *"Whether you're prompting or programming, we meet you where you are"*
 
 </v-clicks>
 
@@ -219,15 +191,15 @@ class: text-center
 layout: two-cols
 ---
 
-# Community & Events
+# Community Stats & Growth
 
 <v-clicks>
 
-### **Current Offerings**
-- **Live Workshops**: Hands-on learning sessions
-- **Vibe Coding Hackathons**: AI-focused building
-- **Traditional Competitions**: Classic coding challenges
-- **Starter Stacks**: Pre-built development resources
+### **Current Metrics**
+- Active learning community
+- Regular events and workshops
+- Starter stacks and resources
+- Real success stories
 
 ### **Event Links**
 - [Main Community](https://lu.ma/Organizedai)
@@ -237,24 +209,24 @@ layout: two-cols
 
 ::right::
 
-# Why This Approach Works
+# Why Now?
 
 <v-clicks>
 
-### **Inclusive Learning**
-- Multiple paths to the same goal
-- No judgment on methodology
-- Focus on results, not process
+### **AI Tool Maturity**
+- GitHub Copilot, Cursor, Claude
+- Tools are production-ready
+- Learning curve advantage exists
 
-### **Real-World Application**
-- Immediate practice opportunities
-- Building while learning
-- Community feedback loops
+### **Market Demand**
+- Developer shortage
+- Remote work normalized
+- Companies hiring based on results
 
-### **Market Timing**
-- AI tools reaching maturity
-- Hybrid approaches becoming norm
-- Both skills needed in industry
+### **Community Timing**
+- Early adopter phase
+- Network effects starting
+- First-mover advantage
 
 </v-clicks>
 
@@ -270,18 +242,18 @@ class: text-center
 
 ### **Short-term (6-12 months)**
 - 1,000+ active community members
-- Monthly live events and hackathons
 - 50+ successful career transitions
+- Established learning curriculum
 
 ### **Medium-term (1-2 years)**
 - Corporate training partnerships
 - Accredited certification program
-- Global community chapters with local events
+- Global community chapters
 
 ### **Long-term (3-5 years)**
 - The go-to platform for AI-powered development education
 - Alumni network at top tech companies
-- Industry-recognized dual-track methodology
+- Industry-recognized methodology
 
 </v-clicks>
 
@@ -294,15 +266,15 @@ layout: two-cols
 <v-clicks>
 
 ### **For Learners**
-- Choose your track: Vibe Coding or Traditional
-- Learn through hands-on workshops
+- Fast-track your development journey
+- Learn from proven methodology
 - Connect with like-minded developers
-- Get real project experience
+- Get support from experienced community
 
-### **For Partners & Sponsors**
+### **For Partners**
 - Access to emerging talent pool
-- Sponsor innovative hackath events
 - Early involvement in new paradigm
+- Opportunity to shape the future
 - Direct pipeline to motivated developers
 
 </v-clicks>
@@ -317,17 +289,13 @@ layout: two-cols
 - 🌐 [Join Organized AI](https://lu.ma/Organizedai)
 - 🚀 [Starter Stacks](https://lu.ma/organizedai-starterstacks)
 
-### **Next Events**
-- Live workshops and hackathons
-- Both Vibe Coding and Traditional tracks
-- Hands-on learning opportunities
-
 ### **Contact**
 - 👨‍💻 Jordaaan Hill, Founder
+- 📧 Connect through community channels
 
 <br>
 
-> *"The best time to start building is now"*
+> *"The best time to plant a tree was 20 years ago. The second-best time is now."*
 
 </v-clicks>
 
@@ -341,7 +309,6 @@ class: text-center
 
 <div class="mt-8">
   <h3>Let's build the future of development education together</h3>
-  <p class="mt-4 text-lg opacity-75">Choose your track. Find your community. Start building.</p>
 </div>
 
 <div class="mt-12 flex justify-center space-x-8">
