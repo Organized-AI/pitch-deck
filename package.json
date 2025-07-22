@@ -4,7 +4,8 @@
   "description": "Organized AI Pitch Deck - Slidev Presentation",
   "scripts": {
     "dev": "slidev slides.md",
-    "build": "slidev build slides.md",
+    "build": "slidev build slides.md --base /pitch-deck/",
+    "build:local": "slidev build slides.md",
     "export": "slidev export slides.md"
   },
   "devDependencies": {
