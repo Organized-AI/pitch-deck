@@ -1,0 +1,14 @@
+{
+  "name": "organized-ai-pitch",
+  "version": "1.0.0",
+  "description": "Organized AI Pitch Deck - Slidev Presentation",
+  "scripts": {
+    "dev": "slidev slides.md",
+    "build": "slidev build slides.md",
+    "export": "slidev export slides.md"
+  },
+  "devDependencies": {
+    "@slidev/cli": "^0.48.0",
+    "@slidev/theme-default": "latest"
+  }
+}
