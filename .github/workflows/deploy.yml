@@ -26,14 +26,20 @@ jobs:
       - name: Install dependencies
         run: npm ci
         
-      - name: Build presentation
-        run: npm run build
+      - name: Build presentation with GitHub Pages base
+        run: npx slidev build slides.md --base /pitch-deck/
         
-      - name: Copy additional files
+      - name: Add .nojekyll file
+        run: touch dist/.nojekyll
+        
+      - name: Create debug info
         run: |
-          if [ -d "simple-static" ]; then
-            cp -r simple-static dist/
-          fi
+          echo "GitHub Pages Debug Info" > dist/debug.txt
+          echo "Build time: $(date)" >> dist/debug.txt
+          echo "Files in dist:" >> dist/debug.txt
+          ls -la dist/ >> dist/debug.txt
+          echo "Index.html content:" >> dist/debug.txt
+          head -20 dist/index.html >> dist/debug.txt
         
       - name: Deploy to gh-pages
         uses: peaceiris/actions-gh-pages@v3
@@ -43,4 +49,4 @@ jobs:
           publish_branch: gh-pages
           user_name: 'github-actions[bot]'
           user_email: 'github-actions[bot]@users.noreply.github.com'
-          commit_message: 'Deploy Slidev presentation'
+          commit_message: 'Deploy Slidev presentation with .nojekyll and debug info'
