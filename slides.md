@@ -14,16 +14,19 @@ title: Organized AI - Pitch Deck
 mdc: true
 ---
 
-# Organized AI
-## Transforming Beginners into Professional Developers Through AI
-
-*The premier community for new coders using AI tools to uplevel skills and monetize ideas*
+<div class="flex flex-col items-center">
+  <img src="/images/organized-ai-logo.png" class="h-32 w-auto object-contain mb-6" alt="Organized AI Logo">
+  <h1 class="text-5xl font-bold mb-4">Organized AI</h1>
+  <h2 class="text-2xl mb-6">Transforming Beginners into Professional Developers Through AI</h2>
+  <p class="text-lg italic">The premier community for new coders using AI tools to uplevel skills and monetize ideas</p>
+</div>
 
 <div class="pt-12">
   <span @click="$slidev.nav.next" class="px-2 py-1 rounded cursor-pointer" hover="bg-white bg-opacity-10">
     Press Space for next page <carbon:arrow-right class="inline"/>
   </span>
 </div>
+
 
 ---
 layout: center
