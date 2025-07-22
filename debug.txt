@@ -1,3 +1,16 @@
+GitHub Pages Debug Info
+Build time: Tue Jul 22 22:40:58 UTC 2025
+Files in dist:
+total 28
+drwxr-xr-x 3 runner docker 4096 Jul 22 22:40 .
+drwxr-xr-x 8 runner docker 4096 Jul 22 22:40 ..
+-rw-r--r-- 1 runner docker    0 Jul 22 22:40 .nojekyll
+-rw-r--r-- 1 runner docker 1148 Jul 22 22:40 404.html
+-rw-r--r-- 1 runner docker   46 Jul 22 22:40 _redirects
+drwxr-xr-x 4 runner docker 4096 Jul 22 22:40 assets
+-rw-r--r-- 1 runner docker   80 Jul 22 22:40 debug.txt
+-rw-r--r-- 1 runner docker 1148 Jul 22 22:40 index.html
+Index.html content:
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -18,5 +31,3 @@
   <div id="app"></div>
   <div id="mermaid-rendering-container"></div>
   
-</body>
-</html>
