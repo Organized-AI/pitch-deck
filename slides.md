@@ -168,43 +168,53 @@ layout: two-cols
 # Our Events in Action
 ## Real People, Real Learning, Real Results
 
-<div class="grid grid-cols-3 gap-4 mb-6">
+<div class="grid grid-cols-3 gap-8 mb-8">
   <div class="text-center">
-    <img src="/images/presenting.jpg" class="w-full h-32 object-cover rounded-lg shadow-lg mb-2" alt="Expert instruction and presentations">
-    <h4 class="text-yellow-300 font-semibold text-sm">🎯 Expert Instruction</h4>
-    <p class="text-xs">Professional workshops with hands-on guidance</p>
+    <img src="/images/presenting.jpg" class="w-full h-40 object-cover rounded-lg shadow-lg mb-4" alt="Expert instruction and presentations">
+    <h4 class="text-yellow-300 font-semibold text-base">🎯 Expert Instruction</h4>
+    <p class="text-sm">Professional workshops with hands-on guidance</p>
   </div>
   
   <div class="text-center">
-    <img src="/images/workshop.jpg" class="w-full h-32 object-cover rounded-lg shadow-lg mb-2" alt="Collaborative workshop environment">
-    <h4 class="text-yellow-300 font-semibold text-sm">🌟 Community Learning</h4>
-    <p class="text-xs">Diverse participants in welcoming environment</p>
+    <img src="/images/workshop.jpg" class="w-full h-40 object-cover rounded-lg shadow-lg mb-4" alt="Collaborative workshop environment">
+    <h4 class="text-yellow-300 font-semibold text-base">🌟 Community Learning</h4>
+    <p class="text-sm">Diverse participants in welcoming environment</p>
   </div>
   
   <div class="text-center">
-    <img src="/images/collaboration.jpg" class="w-full h-32 object-cover rounded-lg shadow-lg mb-2" alt="Three developers collaborating">
-    <h4 class="text-yellow-300 font-semibold text-sm">🤝 Vibe Coding</h4>
-    <p class="text-xs">Real collaboration on actual problems</p>
+    <img src="/images/collaboration.jpg" class="w-full h-40 object-cover rounded-lg shadow-lg mb-4" alt="Three developers collaborating">
+    <h4 class="text-yellow-300 font-semibold text-base">🤝 Vibe Coding</h4>
+    <p class="text-sm">Real collaboration on actual problems</p>
   </div>
 </div>
 
-<div class="grid grid-cols-2 gap-4 mb-6">
+<div class="bg-yellow-100 text-yellow-800 p-6 rounded-lg">
+  <h3 class="text-xl font-bold mb-2">✅ This Isn't Just a Concept - We're Already Delivering</h3>
+  <p class="text-center">Real events ✦ Real community ✦ Real results</p>
+</div>
+
+---
+
+# Building Community & Connections
+## Individual Growth in a Supportive Network
+
+<div class="grid grid-cols-2 gap-12 mb-8">
   <div class="text-center">
-    <img src="/images/focused-learning.jpg" class="w-full h-32 object-cover rounded-lg shadow-lg mb-2" alt="Focused individual learning">
-    <h4 class="text-yellow-300 font-semibold text-sm">💻 Individual Growth</h4>
-    <p class="text-xs">Personal development in supportive setting</p>
+    <img src="/images/focused-learning.jpg" class="w-full h-48 object-cover rounded-lg shadow-lg mb-6" alt="Focused individual learning">
+    <h4 class="text-yellow-300 font-semibold text-xl">💻 Individual Growth</h4>
+    <p class="text-base">Personal development in supportive setting where every learner can focus and grow at their own pace</p>
   </div>
   
   <div class="text-center">
-    <img src="/images/networking.jpg" class="w-full h-32 object-cover rounded-lg shadow-lg mb-2" alt="Professional networking at Antler">
-    <h4 class="text-yellow-300 font-semibold text-sm">🚀 Real Connections</h4>
-    <p class="text-xs">Building networks at top-tier venues</p>
+    <img src="/images/networking.jpg" class="w-full h-48 object-cover rounded-lg shadow-lg mb-6" alt="Professional networking at Antler">
+    <h4 class="text-yellow-300 font-semibold text-xl">🚀 Real Connections</h4>
+    <p class="text-base">Building meaningful networks at top-tier venues like Antler - opening doors to real opportunities</p>
   </div>
 </div>
 
-<div class="bg-yellow-100 text-yellow-800 p-4 rounded-lg">
-  <h3 class="text-lg font-bold mb-2">✅ This Isn't Just a Concept - We're Already Delivering</h3>
-  <p class="text-center text-sm">Real events ✦ Real community ✦ Real results ✦ Real opportunities</p>
+<div class="bg-gradient-to-r from-purple-100 to-blue-100 text-purple-800 p-6 rounded-lg">
+  <h3 class="text-xl font-bold mb-2 text-center">🌟 From Learning to Leading</h3>
+  <p class="text-center">We create environments where individual growth flourishes and professional connections emerge naturally</p>
 </div>
 
 ---
@@ -263,7 +273,7 @@ class: text-center
 layout: two-cols
 ---
 
-# Community & Events
+# Community & Partners
 
 <v-clicks>
 
@@ -272,6 +282,9 @@ layout: two-cols
 - **Vibe Coding Hackathons**: AI-focused building
 - **Traditional Competitions**: Classic coding challenges
 - **Starter Stacks**: Pre-built development resources
+
+### **Strategic Partners**
+- [AITX Community](https://aitxcommunity.com) - AI & Tech Excellence
 
 ### **Event Links**
 - [Main Community](https://lu.ma/Organizedai)
@@ -294,6 +307,11 @@ layout: two-cols
 - Immediate practice opportunities
 - Building while learning
 - Community feedback loops
+
+### **Strategic Partnerships**
+- Aligned with leading AI communities
+- Shared vision for development education
+- Expanded opportunities for learners
 
 ### **Market Timing**
 - AI tools reaching maturity
@@ -360,6 +378,7 @@ layout: two-cols
 ### **Community Links**
 - 🌐 [Join Organized AI](https://lu.ma/Organizedai)
 - 🚀 [Starter Stacks](https://lu.ma/organizedai-starterstacks)
+- 🤖 [AITX Community](https://aitxcommunity.com)
 
 ### **Next Events**
 - Live workshops and hackathons
@@ -391,4 +410,5 @@ class: text-center
 <div class="mt-12 flex justify-center space-x-8">
   <div>🌐 lu.ma/Organizedai</div>
   <div>🚀 lu.ma/organizedai-starterstacks</div>
+  <div>🤖 aitxcommunity.com</div>
 </div>
