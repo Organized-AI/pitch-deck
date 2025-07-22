@@ -284,7 +284,13 @@ layout: two-cols
 - **Starter Stacks**: Pre-built development resources
 
 ### **Strategic Partners**
-- [AITX Community](https://aitxcommunity.com) - AI & Tech Excellence
+<div class="flex items-center gap-4 mt-4">
+  <img src="/images/landscape_OG-AITX-logo-whitebackgrund.avif" class="h-12 object-contain" alt="AITX Community Logo">
+  <div>
+    <a href="https://aitxcommunity.com" class="text-blue-300 hover:text-blue-100 font-semibold">AITX Community</a>
+    <p class="text-sm text-gray-300">AI & Tech Excellence</p>
+  </div>
+</div>
 
 ### **Event Links**
 - [Main Community](https://lu.ma/Organizedai)
@@ -378,7 +384,11 @@ layout: two-cols
 ### **Community Links**
 - 🌐 [Join Organized AI](https://lu.ma/Organizedai)
 - 🚀 [Starter Stacks](https://lu.ma/organizedai-starterstacks)
-- 🤖 [AITX Community](https://aitxcommunity.com)
+
+<div class="flex items-center gap-3 mt-4 justify-center">
+  <img src="/images/landscape_OG-AITX-logo-whitebackgrund.avif" class="h-8 object-contain">
+  <a href="https://aitxcommunity.com" class="text-blue-300 hover:text-blue-100">AITX Community</a>
+</div>
 
 ### **Next Events**
 - Live workshops and hackathons
@@ -407,8 +417,11 @@ class: text-center
   <p class="mt-4 text-lg opacity-75">Choose your track. Find your community. Start building.</p>
 </div>
 
-<div class="mt-12 flex justify-center space-x-8">
+<div class="mt-12 flex justify-center items-center space-x-8">
   <div>🌐 lu.ma/Organizedai</div>
   <div>🚀 lu.ma/organizedai-starterstacks</div>
-  <div>🤖 aitxcommunity.com</div>
+  <div class="flex items-center gap-2">
+    <img src="/images/landscape_OG-AITX-logo-whitebackgrund.avif" class="h-6 object-contain">
+    <span>aitxcommunity.com</span>
+  </div>
 </div>
