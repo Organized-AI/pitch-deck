@@ -164,6 +164,64 @@ layout: two-cols
 </v-clicks>
 
 ---
+
+# Our Events in Action
+## Real People, Real Learning, Real Results
+
+<div class="grid grid-cols-3 gap-4 mb-6">
+  <div class="text-center">
+    <div class="w-full h-32 bg-gradient-to-br from-blue-500 to-purple-600 rounded-lg mb-2 flex items-center justify-center">
+      <div class="text-white text-2xl">🎯</div>
+    </div>
+    <h4 class="text-yellow-300 font-semibold text-sm">Expert Instruction</h4>
+    <p class="text-xs">Professional workshops with hands-on guidance</p>
+  </div>
+  
+  <div class="text-center">
+    <div class="w-full h-32 bg-gradient-to-br from-purple-500 to-pink-600 rounded-lg mb-2 flex items-center justify-center">
+      <div class="text-white text-2xl">🌟</div>
+    </div>
+    <h4 class="text-yellow-300 font-semibold text-sm">Community Learning</h4>
+    <p class="text-xs">Diverse participants in welcoming environment</p>
+  </div>
+  
+  <div class="text-center">
+    <div class="w-full h-32 bg-gradient-to-br from-green-500 to-blue-600 rounded-lg mb-2 flex items-center justify-center">
+      <div class="text-white text-2xl">🤝</div>
+    </div>
+    <h4 class="text-yellow-300 font-semibold text-sm">Vibe Coding</h4>
+    <p class="text-xs">Real collaboration on actual problems</p>
+  </div>
+</div>
+
+<div class="grid grid-cols-2 gap-4 mb-6">
+  <div class="text-center">
+    <div class="w-full h-32 bg-gradient-to-br from-orange-500 to-red-600 rounded-lg mb-2 flex items-center justify-center">
+      <div class="text-white text-2xl">💻</div>
+    </div>
+    <h4 class="text-yellow-300 font-semibold text-sm">Individual Growth</h4>
+    <p class="text-xs">Personal development in supportive setting</p>
+  </div>
+  
+  <div class="text-center">
+    <div class="w-full h-32 bg-gradient-to-br from-cyan-500 to-blue-600 rounded-lg mb-2 flex items-center justify-center">
+      <div class="text-white text-2xl">🚀</div>
+    </div>
+    <h4 class="text-yellow-300 font-semibold text-sm">Real Connections</h4>
+    <p class="text-xs">Building networks at top-tier venues</p>
+  </div>
+</div>
+
+<div class="bg-yellow-100 text-yellow-800 p-4 rounded-lg">
+  <h3 class="text-lg font-bold mb-2">✅ This Isn't Just a Concept - We're Already Delivering</h3>
+  <p class="text-center text-sm">Real events ✦ Real community ✦ Real results ✦ Real opportunities</p>
+</div>
+
+<div class="text-xs text-gray-300 mt-4 text-center">
+  💡 Add your event photos to /images/ folder to replace placeholders
+</div>
+
+---
 layout: center
 class: text-center
 ---
