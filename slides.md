@@ -14,15 +14,17 @@ title: Organized AI - Pitch Deck
 mdc: true
 ---
 
-# Organized AI
-## Transforming Beginners into Professional Developers Through AI
-
-*The premier community for new coders using AI tools to uplevel skills and monetize ideas*
-
-<div class="pt-12">
-  <span @click="$slidev.nav.next" class="px-2 py-1 rounded cursor-pointer" hover="bg-white bg-opacity-10">
-    Press Space for next page <carbon:arrow-right class="inline"/>
-  </span>
+<div class="flex flex-col items-center justify-center h-full">
+  <img src="/images/IMG_1110.PNG" class="h-24 mb-8 object-contain" alt="Organized AI Logo">
+  <h1 class="text-5xl font-bold mb-4">Organized AI</h1>
+  <h2 class="text-3xl mb-6">Transforming Beginners into Professional Developers Through AI</h2>
+  <p class="text-xl italic opacity-90 mb-12">The premier community for new coders using AI tools to uplevel skills and monetize ideas</p>
+  
+  <div class="pt-12">
+    <span @click="$slidev.nav.next" class="px-2 py-1 rounded cursor-pointer" hover="bg-white bg-opacity-10">
+      Press Space for next page <carbon:arrow-right class="inline"/>
+    </span>
+  </div>
 </div>
 
 ---
@@ -99,7 +101,11 @@ layout: center
 class: text-center
 ---
 
-# Our Solution: Organized AI
+<div class="flex items-center justify-center mb-8">
+  <img src="/images/IMG_1110.PNG" class="h-16 mr-4 object-contain" alt="Organized AI Logo">
+  <h1 class="text-4xl font-bold">Our Solution: Organized AI</h1>
+</div>
+
 ## The Fast Track from AI Tools to Professional Development
 
 <v-clicks>
@@ -409,19 +415,22 @@ layout: center
 class: text-center
 ---
 
-# Thank You
-## Questions & Discussion
+<div class="flex flex-col items-center justify-center h-full">
+  <img src="/images/IMG_1110.PNG" class="h-20 mb-6 object-contain" alt="Organized AI Logo">
+  <h1 class="text-4xl font-bold mb-4">Thank You</h1>
+  <h2 class="text-2xl mb-8">Questions & Discussion</h2>
+  
+  <div class="mt-8">
+    <h3 class="text-xl mb-4">Let's build the future of development education together</h3>
+    <p class="text-lg opacity-75">Choose your track. Find your community. Start building.</p>
+  </div>
 
-<div class="mt-8">
-  <h3>Let's build the future of development education together</h3>
-  <p class="mt-4 text-lg opacity-75">Choose your track. Find your community. Start building.</p>
-</div>
-
-<div class="mt-12 flex justify-center items-center space-x-8">
-  <div>🌐 lu.ma/Organizedai</div>
-  <div>🚀 lu.ma/organizedai-starterstacks</div>
-  <div class="flex items-center gap-2">
-    <img src="/images/landscape_OG-AITX-logo-whitebackgrund.avif" class="h-6 object-contain">
-    <span>aitxcommunity.com</span>
+  <div class="mt-12 flex justify-center items-center space-x-8">
+    <div>🌐 lu.ma/Organizedai</div>
+    <div>🚀 lu.ma/organizedai-starterstacks</div>
+    <div class="flex items-center gap-2">
+      <img src="/images/landscape_OG-AITX-logo-whitebackgrund.avif" class="h-6 object-contain">
+      <span>aitxcommunity.com</span>
+    </div>
   </div>
 </div>
