@@ -107,14 +107,26 @@ class: text-center
 
 <v-clicks>
 
-### **"Vibe Coding" → Engineering Excellence**
-*Learn to command AI tools effectively, then scale to production systems*
+<div v-click="1" class="transform transition-all duration-1000 ease-out" :class="$slidev.nav.currentPage >= 4 && $slidev.nav.clicks >= 1 ? 'translate-y-0 opacity-100 scale-100' : 'translate-y-8 opacity-0 scale-95'">
 
-### **Community-Driven Learning**
-*Learn alongside others on the same journey*
+### **🎯 "<span class="text-yellow-300">Vibe Coding</span>" → <span class="text-yellow-300">Engineering Excellence</span>**
+*Learn to <span class="text-yellow-300 font-semibold">command</span> AI tools effectively, then scale to <span class="text-yellow-300 font-semibold">production systems</span>*
 
-### **Real-World Pipeline**
-*From first line of code to landing contracts*
+</div>
+
+<div v-click="2" class="transform transition-all duration-1000 ease-out delay-300" :class="$slidev.nav.currentPage >= 4 && $slidev.nav.clicks >= 2 ? 'translate-x-0 opacity-100 scale-100' : '-translate-x-8 opacity-0 scale-95'">
+
+### **🤝 <span class="text-yellow-300">Community-Driven</span> Learning**
+*Learn alongside <span class="text-yellow-300 font-semibold">others</span> on the <span class="text-yellow-300 font-semibold">same journey</span>*
+
+</div>
+
+<div v-click="3" class="transform transition-all duration-1000 ease-out delay-500" :class="$slidev.nav.currentPage >= 4 && $slidev.nav.clicks >= 3 ? 'translate-x-0 opacity-100 scale-100' : 'translate-x-8 opacity-0 scale-95'">
+
+### **💼 <span class="text-yellow-300">Real-World Pipeline</span>**
+*From <span class="text-yellow-300 font-semibold">first line of code</span> to <span class="text-yellow-300 font-semibold">landing contracts</span>*
+
+</div>
 
 </v-clicks>
 
