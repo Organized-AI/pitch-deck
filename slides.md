@@ -233,7 +233,7 @@ layout: two-cols
 
 <div class="grid grid-cols-2 gap-12 mb-8">
   <div class="text-center">
-    <img src="/images/focused-learning.jpg" class="w-full h-48 object-cover rounded-lg shadow-lg mb-6" alt="Focused individual learning">
+    <img src="/images/focused-learning.jpg" class="w-full h-48 object-cover object-top rounded-lg shadow-lg mb-6" alt="Focused individual learning">
     <h4 class="text-yellow-300 font-semibold text-xl">💻 Individual Growth</h4>
     <p class="text-base">Personal development in supportive setting where every learner can focus and grow at their own pace</p>
   </div>
