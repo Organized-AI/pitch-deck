@@ -138,20 +138,20 @@ layout: two-cols
 
 <v-clicks>
 
-### **Vibe Coding Methodology**
-- Learn to *command* AI tools, not just use them
-- Focus on iteration and refinement
-- Build intuition for what works
+### **🎯 Vibe Coding Methodology**
+- Learn to *<span class="text-yellow-300 font-semibold">command</span>* AI tools, not just use them
+- Focus on <span class="text-yellow-300 font-semibold">iteration</span> and refinement
+- Build <span class="text-yellow-300 font-semibold">intuition</span> for what works
 
-### **Hands-On Workshop Format**
-- Live events with practical application
-- Real-time problem solving
-- Immediate feedback and iteration
+### **🛠️ Hands-On Workshop Format**
+- Live events with <span class="text-yellow-300 font-semibold">practical application</span>
+- <span class="text-yellow-300 font-semibold">Real-time</span> problem solving
+- Immediate <span class="text-yellow-300 font-semibold">feedback</span> and iteration
 
-### **Monetization Focus**
+### **💰 Monetization Focus**
 - Not just learning for learning's sake
-- Clear path to earning potential
-- Real project experience
+- Clear path to <span class="text-yellow-300 font-semibold">earning potential</span>
+- <span class="text-yellow-300 font-semibold">Real project</span> experience
 
 </v-clicks>
 
@@ -159,24 +159,42 @@ layout: two-cols
 
 # The Learning Pipeline
 
-<v-clicks>
+<div class="relative h-full">
 
-## **Phase 1: Foundation**
-- AI tool mastery
-- Basic development concepts
-- Community onboarding
+<div v-click="1" class="absolute inset-0 transition-all duration-1000 ease-in-out" :class="$slidev.nav.clicks === 1 ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-4'">
 
-## **Phase 2: Application**
-- Live workshops & events
-- Real projects & hackathons
-- Collaboration skills
+## **Phase 1: <span class="text-yellow-300">Foundation</span>** 🌱
+<div class="text-lg mt-6 space-y-3">
+  <div>• <span class="text-yellow-300 font-semibold">AI tool mastery</span></div>
+  <div>• Basic <span class="text-yellow-300 font-semibold">development concepts</span></div>
+  <div>• <span class="text-yellow-300 font-semibold">Community onboarding</span></div>
+</div>
 
-## **Phase 3: Professional**
-- Engineering best practices
-- Systems thinking
-- Career preparation
+</div>
 
-</v-clicks>
+<div v-click="2" class="absolute inset-0 transition-all duration-1000 ease-in-out" :class="$slidev.nav.clicks === 2 ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-4'">
+
+## **Phase 2: <span class="text-yellow-300">Application</span>** 🔨
+<div class="text-lg mt-6 space-y-3">
+  <div>• Live <span class="text-yellow-300 font-semibold">workshops & events</span></div>
+  <div>• Real <span class="text-yellow-300 font-semibold">projects & hackathons</span></div>
+  <div>• <span class="text-yellow-300 font-semibold">Collaboration skills</span></div>
+</div>
+
+</div>
+
+<div v-click="3" class="absolute inset-0 transition-all duration-1000 ease-in-out" :class="$slidev.nav.clicks === 3 ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-4'">
+
+## **Phase 3: <span class="text-yellow-300">Professional</span>** 🚀
+<div class="text-lg mt-6 space-y-3">
+  <div>• <span class="text-yellow-300 font-semibold">Engineering best practices</span></div>
+  <div>• <span class="text-yellow-300 font-semibold">Systems thinking</span></div>
+  <div>• <span class="text-yellow-300 font-semibold">Career preparation</span></div>
+</div>
+
+</div>
+
+</div>
 
 ---
 
