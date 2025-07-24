@@ -57,17 +57,17 @@ layout: two-cols
 
 <v-clicks>
 
-- **Overwhelming AI Tool Landscape**
+- 🌊 **Overwhelming AI Tool Landscape**
   - Hundreds of coding assistants
   - No clear learning path
   - Most tutorials are surface-level
 
-- **Skills Gap**
+- ⚡ **Skills Gap**
   - Can build demos, but not production apps
   - Missing engineering best practices
   - No bridge to real-world systems
 
-- **Isolation**
+- 🏝️ **Isolation**
   - Learning alone is hard
   - No community of like-minded learners
   - No mentorship or guidance
@@ -80,17 +80,17 @@ layout: two-cols
 
 <v-clicks>
 
-- **$1.3T Software Market**
+- 💰 **$1.3T Software Market**
   - Growing 8.6% annually
   - Massive developer shortage
   - AI amplifies individual capability
 
-- **Speed to Market**
+- 🚀 **Speed to Market**
   - Traditional paths too slow
   - Market moving faster than education
   - First-mover advantage available
 
-- **Democratization**
+- 🌍 **Democratization**
   - Geographic barriers removed
   - Age barriers removed
   - Background barriers removed
