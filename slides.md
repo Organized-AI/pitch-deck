@@ -161,7 +161,7 @@ layout: two-cols
 
 <div class="relative h-full">
 
-<div v-click="1" class="absolute inset-0 transition-all duration-1000 ease-in-out" :class="$slidev.nav.clicks === 1 ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-4'">
+<div v-click="1" class="absolute inset-0 transition-all duration-1000 ease-in-out" :class="$slidev.nav.clicks >= 1 && $slidev.nav.clicks < 2 ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-4'">
 
 ## **Phase 1: <span class="text-yellow-300">Foundation</span>** 🌱
 <div class="text-lg mt-6 space-y-3">
@@ -172,7 +172,7 @@ layout: two-cols
 
 </div>
 
-<div v-click="2" class="absolute inset-0 transition-all duration-1000 ease-in-out" :class="$slidev.nav.clicks === 2 ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-4'">
+<div v-click="2" class="absolute inset-0 transition-all duration-1000 ease-in-out" :class="$slidev.nav.clicks >= 2 && $slidev.nav.clicks < 3 ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-4'">
 
 ## **Phase 2: <span class="text-yellow-300">Application</span>** 🔨
 <div class="text-lg mt-6 space-y-3">
@@ -183,7 +183,7 @@ layout: two-cols
 
 </div>
 
-<div v-click="3" class="absolute inset-0 transition-all duration-1000 ease-in-out" :class="$slidev.nav.clicks === 3 ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-4'">
+<div v-click="3" class="absolute inset-0 transition-all duration-1000 ease-in-out" :class="$slidev.nav.clicks >= 3 ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-4'">
 
 ## **Phase 3: <span class="text-yellow-300">Professional</span>** 🚀
 <div class="text-lg mt-6 space-y-3">
