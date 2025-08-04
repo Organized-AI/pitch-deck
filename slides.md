@@ -57,17 +57,17 @@ layout: two-cols
 
 <v-clicks>
 
-- **Overwhelming AI Tool Landscape**
+- 🌊 **Overwhelming AI Tool Landscape**
   - Hundreds of coding assistants
   - No clear learning path
   - Most tutorials are surface-level
 
-- **Skills Gap**
+- ⚡ **Skills Gap**
   - Can build demos, but not production apps
   - Missing engineering best practices
   - No bridge to real-world systems
 
-- **Isolation**
+- 🏝️ **Isolation**
   - Learning alone is hard
   - No community of like-minded learners
   - No mentorship or guidance
@@ -80,17 +80,17 @@ layout: two-cols
 
 <v-clicks>
 
-- **$1.3T Software Market**
+- 💰 **$1.3T Software Market**
   - Growing 8.6% annually
   - Massive developer shortage
   - AI amplifies individual capability
 
-- **Speed to Market**
+- 🚀 **Speed to Market**
   - Traditional paths too slow
   - Market moving faster than education
   - First-mover advantage available
 
-- **Democratization**
+- 🌍 **Democratization**
   - Geographic barriers removed
   - Age barriers removed
   - Background barriers removed
@@ -107,14 +107,26 @@ class: text-center
 
 <v-clicks>
 
-### **"Vibe Coding" → Engineering Excellence**
-*Learn to command AI tools effectively, then scale to production systems*
+<div v-click="1" class="transform transition-all duration-1000 ease-out" :class="$slidev.nav.currentPage >= 4 && $slidev.nav.clicks >= 1 ? 'translate-y-0 opacity-100 scale-100' : 'translate-y-8 opacity-0 scale-95'">
 
-### **Community-Driven Learning**
-*Learn alongside others on the same journey*
+### **🎯 "<span class="text-yellow-300">Vibe Coding</span>" → <span class="text-yellow-300">Engineering Excellence</span>**
+*Learn to <span class="text-yellow-300 font-semibold">command</span> AI tools effectively, then scale to <span class="text-yellow-300 font-semibold">production systems</span>*
 
-### **Real-World Pipeline**
-*From first line of code to landing contracts*
+</div>
+
+<div v-click="2" class="transform transition-all duration-1000 ease-out delay-300" :class="$slidev.nav.currentPage >= 4 && $slidev.nav.clicks >= 2 ? 'translate-x-0 opacity-100 scale-100' : '-translate-x-8 opacity-0 scale-95'">
+
+### **🤝 <span class="text-yellow-300">Community-Driven</span> Learning**
+*Learn alongside <span class="text-yellow-300 font-semibold">others</span> on the <span class="text-yellow-300 font-semibold">same journey</span>*
+
+</div>
+
+<div v-click="3" class="transform transition-all duration-1000 ease-out delay-500" :class="$slidev.nav.currentPage >= 4 && $slidev.nav.clicks >= 3 ? 'translate-x-0 opacity-100 scale-100' : 'translate-x-8 opacity-0 scale-95'">
+
+### **💼 <span class="text-yellow-300">Real-World Pipeline</span>**
+*From <span class="text-yellow-300 font-semibold">first line of code</span> to <span class="text-yellow-300 font-semibold">landing contracts</span>*
+
+</div>
 
 </v-clicks>
 
@@ -126,20 +138,20 @@ layout: two-cols
 
 <v-clicks>
 
-### **Vibe Coding Methodology**
-- Learn to *command* AI tools, not just use them
-- Focus on iteration and refinement
-- Build intuition for what works
+### **🎯 Vibe Coding Methodology**
+- Learn to *<span class="text-yellow-300 font-semibold">command</span>* AI tools, not just use them
+- Focus on <span class="text-yellow-300 font-semibold">iteration</span> and refinement
+- Build <span class="text-yellow-300 font-semibold">intuition</span> for what works
 
-### **Hands-On Workshop Format**
-- Live events with practical application
-- Real-time problem solving
-- Immediate feedback and iteration
+### **🛠️ Hands-On Workshop Format**
+- Live events with <span class="text-yellow-300 font-semibold">practical application</span>
+- <span class="text-yellow-300 font-semibold">Real-time</span> problem solving
+- Immediate <span class="text-yellow-300 font-semibold">feedback</span> and iteration
 
-### **Monetization Focus**
+### **💰 Monetization Focus**
 - Not just learning for learning's sake
-- Clear path to earning potential
-- Real project experience
+- Clear path to <span class="text-yellow-300 font-semibold">earning potential</span>
+- <span class="text-yellow-300 font-semibold">Real project</span> experience
 
 </v-clicks>
 
@@ -147,24 +159,42 @@ layout: two-cols
 
 # The Learning Pipeline
 
-<v-clicks>
+<div class="relative h-full">
 
-## **Phase 1: Foundation**
-- AI tool mastery
-- Basic development concepts
-- Community onboarding
+<div v-click="1" class="absolute inset-0 transition-all duration-1000 ease-in-out" :class="$slidev.nav.clicks >= 1 && $slidev.nav.clicks < 2 ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-4'">
 
-## **Phase 2: Application**
-- Live workshops & events
-- Real projects & hackathons
-- Collaboration skills
+## **Phase 1: <span class="text-yellow-300">Foundation</span>** 🌱
+<div class="text-lg mt-6 space-y-3">
+  <div>• <span class="text-yellow-300 font-semibold">AI tool mastery</span></div>
+  <div>• Basic <span class="text-yellow-300 font-semibold">development concepts</span></div>
+  <div>• <span class="text-yellow-300 font-semibold">Community onboarding</span></div>
+</div>
 
-## **Phase 3: Professional**
-- Engineering best practices
-- Systems thinking
-- Career preparation
+</div>
 
-</v-clicks>
+<div v-click="2" class="absolute inset-0 transition-all duration-1000 ease-in-out" :class="$slidev.nav.clicks >= 2 && $slidev.nav.clicks < 3 ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-4'">
+
+## **Phase 2: <span class="text-yellow-300">Application</span>** 🔨
+<div class="text-lg mt-6 space-y-3">
+  <div>• Live <span class="text-yellow-300 font-semibold">workshops & events</span></div>
+  <div>• Real <span class="text-yellow-300 font-semibold">projects & hackathons</span></div>
+  <div>• <span class="text-yellow-300 font-semibold">Collaboration skills</span></div>
+</div>
+
+</div>
+
+<div v-click="3" class="absolute inset-0 transition-all duration-1000 ease-in-out" :class="$slidev.nav.clicks >= 3 ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-4'">
+
+## **Phase 3: <span class="text-yellow-300">Professional</span>** 🚀
+<div class="text-lg mt-6 space-y-3">
+  <div>• <span class="text-yellow-300 font-semibold">Engineering best practices</span></div>
+  <div>• <span class="text-yellow-300 font-semibold">Systems thinking</span></div>
+  <div>• <span class="text-yellow-300 font-semibold">Career preparation</span></div>
+</div>
+
+</div>
+
+</div>
 
 ---
 
@@ -203,7 +233,7 @@ layout: two-cols
 
 <div class="grid grid-cols-2 gap-12 mb-8">
   <div class="text-center">
-    <img src="/images/focused-learning.jpg" class="w-full h-48 object-cover rounded-lg shadow-lg mb-6" alt="Focused individual learning">
+    <img src="/images/focused-learning.jpg" class="w-full h-48 object-cover rounded-lg shadow-lg mb-6" style="object-position: center 20%" alt="Focused individual learning">
     <h4 class="text-yellow-300 font-semibold text-xl">💻 Individual Growth</h4>
     <p class="text-base">Personal development in supportive setting where every learner can focus and grow at their own pace</p>
   </div>

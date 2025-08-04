@@ -1,17 +1,24 @@
-name: Deploy to GitHub Pages
+name: Deploy Slidev to GitHub Pages
 
 on:
   push:
     branches: [ main ]
   workflow_dispatch:
 
+# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
-  contents: write
+  contents: read
   pages: write
   id-token: write
 
+# Allow only one concurrent deployment
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
 jobs:
-  build-and-deploy:
+  # Build job
+  build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -26,27 +33,28 @@ jobs:
       - name: Install dependencies
         run: npm ci
         
-      - name: Build presentation with GitHub Pages base
-        run: npx slidev build slides.md --base /pitch-deck/
+      - name: Build Slidev
+        run: npm run build:gh-pages
         
       - name: Add .nojekyll file
         run: touch dist/.nojekyll
         
-      - name: Create debug info
-        run: |
-          echo "GitHub Pages Debug Info" > dist/debug.txt
-          echo "Build time: $(date)" >> dist/debug.txt
-          echo "Files in dist:" >> dist/debug.txt
-          ls -la dist/ >> dist/debug.txt
-          echo "Index.html content:" >> dist/debug.txt
-          head -20 dist/index.html >> dist/debug.txt
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
         
-      - name: Deploy to gh-pages
-        uses: peaceiris/actions-gh-pages@v3
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
-          publish_branch: gh-pages
-          user_name: 'github-actions[bot]'
-          user_email: 'github-actions[bot]@users.noreply.github.com'
-          commit_message: 'Deploy Slidev presentation with .nojekyll and debug info'
+          path: './dist'
+
+  # Deployment job
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
