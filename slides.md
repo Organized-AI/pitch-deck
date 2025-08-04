@@ -15,7 +15,7 @@ mdc: true
 ---
 
 <div class="flex flex-col items-center">
-  <img src="/images/organized-ai-logo.png" class="h-32 w-auto object-contain mb-6" alt="Organized AI Logo">
+  <img src="/images/organized-ai-logo.gif" class="h-32 w-auto object-contain mb-6" alt="Organized AI Logo">
   <h1 class="text-5xl font-bold mb-4">Organized AI</h1>
   <h2 class="text-2xl mb-6">Transforming Beginners into Professional Developers Through AI</h2>
   <p class="text-lg italic">The premier community for new coders using AI tools to uplevel skills and monetize ideas</p>
