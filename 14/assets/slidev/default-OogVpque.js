@@ -1,0 +1,1 @@
+import{f as t,o,j as s}from"../modules/vue-DMQQbM9X.js";import{b as a}from"../index-Co_u7n4i.js";const c={},r={class:"slidev-layout default"};function l(e,n){return o(),t("div",r,[s(e.$slots,"default")])}const f=a(c,[["render",l],["__file","/Users/jordaaan/temp-pitch-deck-14/14/node_modules/@slidev/client/layouts/default.vue"]]);export{f as I};
