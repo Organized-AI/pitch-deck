@@ -1,0 +1,32 @@
+{
+  "name": "starter-stacks-presentation-14",
+  "version": "1.0.0",
+  "description": "StarterStacks: The Speed Revolution - Presentation #14",
+  "scripts": {
+    "build": "slidev build --base /pitch-deck/14/",
+    "dev": "slidev --open",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.48.0",
+    "@slidev/theme-default": "latest"
+  },
+  "devDependencies": {
+    "playwright-chromium": "^1.40.0"
+  },
+  "keywords": [
+    "slidev",
+    "presentation",
+    "starter-stacks",
+    "ai-tools",
+    "organized-ai",
+    "presentation-14"
+  ],
+  "author": "Organized AI",
+  "license": "MIT",
+  "homepage": "https://organized-ai.github.io/pitch-deck/14",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Organized-AI/pitch-deck.git"
+  }
+}
