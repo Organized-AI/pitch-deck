@@ -1,10 +1,10 @@
 # Organized AI Pitch Deck
 
-A comprehensive Slidev presentation showcasing Organized AI as the premier community for new developers leveraging AI tools, plus our flagship StarterStacks methodology with visual, key-point focused slides.
+A comprehensive Slidev presentation showcasing Organized AI as the premier community for new developers leveraging AI tools, plus our flagship StarterStacks methodology with perfectly framed, visual slides that fit all screen sizes.
 
 🌐 **Live Presentation**: https://organized-ai.github.io/pitch-deck
 
-## Presentation Structure (35 Total Slides)
+## Presentation Structure (34 Total Slides)
 
 ### **Part 1: Organized AI Foundation (Slides 1-23)**
 *Complete original community and vision presentation*
@@ -19,70 +19,84 @@ A comprehensive Slidev presentation showcasing Organized AI as the premier commu
 - **Join the Revolution**: Call to action for learners and contributors
 - **Thank You**: Questions & discussion for Part 1
 
-### **Part 2: StarterStacks - Visual Speed Revolution (Slides 24-35)**
-*Technical methodology with visual, key-point focused design*
+### **Part 2: StarterStacks - Perfectly Framed Speed Revolution (Slides 24-34)**
+*Technical methodology with optimized visual framing for all screen sizes*
 
 - **Introduction**: Transition to flagship technical methodology
-- **Visual Problem**: The vibe coding cycle that kills 60% of projects (Mermaid diagram)
-- **Visual Solution**: Organized framework approach vs traditional methods
-- **Interactive Demo**: Live stack evaluator walkthrough (stack.organizedai.vip)
-- **Visual Stacks**: 10 curated options from minutes to production (color-coded)
-- **Session Budgets**: Visual budget planning and token management examples
-- **Development Types**: Visual comparison of approaches (Vibe/Structured/Agent)
-- **Claude Code Framework**: Master prompt system with code examples
-- **Success Stories**: Real results with concrete numbers and timeframes
-- **Implementation**: 3-step process to start immediately
-- **Why Frameworks Win**: Organized vs unorganized comparison
-- **Final Call to Action**: Join the Speed Revolution
+- **Visual Problem**: Framed Mermaid diagram showing vibe coding death cycle
+- **Visual Solution**: Organized framework comparison with proper spacing
+- **Interactive Demo**: Stack evaluator walkthrough with optimized layout
+- **Visual Stacks**: 2-column grid layout for better readability
+- **Session Budgets**: Compact budget planning examples that fit all screens
+- **Development Types**: Optimized layout for approach comparison
+- **Claude Code Framework**: Properly sized code block with clear formatting
+- **Success Stories**: Two-column layout with all content visible
+- **Implementation**: 3-column layout optimized for readability
+- **Final Comparison**: Well-spaced framework benefits comparison
 
-## Key Features
+## Key Framing Improvements
 
-### **Seamless Two-Part Structure**
-- ✅ **Complete Foundation**: All original Organized AI community slides preserved
-- ✅ **Natural Transition**: Clear break between community vision and technical methodology
-- ✅ **Visual Impact**: Part 2 optimized with diagrams, grids, and minimal text
-- ✅ **Flexible Usage**: Can present full 35 slides or focus on either part
+### **Perfect Visual Fit**
+- ✅ **Max-width containers** on all slides to prevent overflow
+- ✅ **Responsive Mermaid diagrams** with proper sizing constraints  
+- ✅ **Optimized grid layouts** - 2-column instead of 3 where needed
+- ✅ **Compact code blocks** that fit within slide boundaries
+- ✅ **Proper text sizing** - smaller fonts where needed for content fit
+- ✅ **Strategic spacing** - adjusted margins and padding for optimal use of space
 
-### **Visual Design (Part 2)**
-- ✅ **Mermaid diagrams** showing the vibe coding problem cycle
-- ✅ **Color-coded grids** for easy comparison and scanning  
-- ✅ **Key statistics** prominently displayed (80% time waste, 60% failure rate)
-- ✅ **Minimal text** with maximum impact bullet points
-- ✅ **Interactive elements** with live stack.organizedai.vip integration
+### **Screen Size Optimization**
+- ✅ **All content visible** on standard presentation screens (16:9, 4:3)
+- ✅ **No horizontal scrolling** required for any slide
+- ✅ **No vertical overflow** - all content fits within slide height
+- ✅ **Responsive layouts** that work on projectors and laptops
+- ✅ **Proper font scaling** for readability at distance
+
+### **Visual Design Maintained**
+- ✅ **Color-coded sections** preserved with better spacing
+- ✅ **Mermaid diagrams** optimized with proper node sizing
+- ✅ **Grid layouts** restructured for better content distribution
+- ✅ **Interactive elements** maintained with stack.organizedai.vip integration
+- ✅ **Professional appearance** on all display types
 
 ## Usage Scenarios
 
-### **Full Presentation (35 slides, 45-60 minutes)**
-- Complete story from community vision to technical implementation
-- Perfect for comprehensive team training or major stakeholder presentations
-- Shows full methodology from problem to solution to community
+### **Full Presentation (34 slides, 45-55 minutes)**
+- Complete story with perfect visual framing on all screens
+- Ideal for comprehensive stakeholder presentations
+- Professional appearance on projectors and large displays
 
 ### **Foundation Only (Slides 1-23, 30-35 minutes)**  
-- Focus on Organized AI community, vision, and proof of concept
-- Perfect for community building and recruitment presentations
-- Ideal for events focused on developer education and community
+- Community focus with original content preserved
+- Perfect for community building and recruitment
+- All original visual elements intact
 
-### **StarterStacks Only (Slides 24-35, 20-25 minutes)**
-- Technical methodology with visual impact
-- Perfect for developer audiences and implementation-focused meetings
-- Great for conference talks and technical demonstrations
+### **StarterStacks Only (Slides 24-34, 20-25 minutes)**
+- Technical methodology with guaranteed perfect framing
+- Ideal for developer conferences and technical presentations
+- All diagrams and layouts optimized for visibility
 
 ### **Quick Demo (Selected slides, 10-15 minutes)**
-- Slides 1, 6, 24, 26, 28, 34, 35 for core message
-- Problem identification → Solution → Live demo → Call to action
+- Key slides guaranteed to display perfectly
+- Optimized for various screen sizes and projection setups
 
-## Technical Features
+## Technical Specifications
 
-- **Framework**: SliDev (Vue.js + Vite) with Mermaid diagram support
-- **Visual Design**: Color-coded sections, grid layouts, interactive elements
-- **Navigation**: Space/Arrow keys, Overview (O), Presenter (P), Full screen (F)
-- **Mobile Responsive**: Professional presentation on all devices  
-- **Export Options**: PDF generation with visual diagrams intact
-- **Live Integration**: Direct links to stack.organizedai.vip throughout Part 2
+### **Display Optimization**
+- **Aspect Ratios**: Optimized for 16:9, 4:3, and ultrawide displays
+- **Resolution**: Scales properly from 1024x768 to 4K displays  
+- **Projection**: Perfect for conference projectors and meeting room displays
+- **Mobile**: Responsive design works on tablets and phones
+
+### **Framework Features**
+- **SliDev**: Vue.js + Vite with Mermaid diagram support
+- **Responsive Design**: CSS Grid and Flexbox for perfect layouts
+- **Visual Elements**: Properly sized diagrams and interactive components
+- **Export Options**: PDF generation maintains proper sizing
+- **Navigation**: All standard SliDev navigation features work perfectly
 
 ## Related Resources
 
-- **Stack Evaluator**: https://stack.organizedai.vip (featured in slides 27+)
+- **Stack Evaluator**: https://stack.organizedai.vip (optimized integration throughout)
 - **StarterStacks Repository**: https://github.com/Organized-AI/starter-stacks
 - **Main Website**: https://organizedai.vip
 - **Community Events**: https://lu.ma/Organizedai
@@ -91,17 +105,17 @@ A comprehensive Slidev presentation showcasing Organized AI as the premier commu
 ## Development
 
 ```bash
-# Local development
+# Local development with live preview
 npm install
 npm run dev
 
-# Build for production  
+# Build for production with optimized layouts
 npm run build
 
-# Export to PDF (includes visual diagrams)
+# Export to PDF with proper framing maintained
 npm run export
 ```
 
 ---
 
-**Organized AI: Complete Methodology from Community to Implementation** | **35 Slides Telling the Full Story**
+**Organized AI: Perfectly Framed Presentation for All Display Types** | **34 Slides with Guaranteed Visual Fit**
