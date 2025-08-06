@@ -563,7 +563,7 @@ graph TD
 ---
 
 # Stack Evaluator in Action
-## https://stack.organizedai.vip
+## https://web-fpi95p595-jordaaans-projects.vercel.app/
 
 <div class="grid grid-cols-2 gap-8 max-w-5xl mx-auto">
 
@@ -604,7 +604,7 @@ graph TD
 </div>
 
 <div class="text-center pt-4">
-<a href="https://stack.organizedai.vip" class="text-blue-300 text-lg">→ Try Live Demo</a>
+<a href="https://web-fpi95p595-jordaaans-projects.vercel.app/" class="text-blue-300 text-lg">→ Try Live Demo</a>
 </div>
 
 </div>
@@ -893,7 +893,7 @@ Total Budget: 40 sessions, 4.7M tokens ≈ $75
 ### **1. Evaluate** ⚡
 <div class="text-sm space-y-2">
 
-Visit **stack.organizedai.vip**
+Visit **web-fpi95p595-jordaaans-projects.vercel.app**
 
 Answer 5 questions  
 Get personalized stack  
@@ -941,7 +941,7 @@ Keep improving
 
 ### **Community Links**
 <div class="text-sm">
-🌐 **stack.organizedai.vip** • 📚 **github.com/Organized-AI/starter-stacks** • 💬 **lu.ma/Organizedai**
+🌐 **web-fpi95p595-jordaaans-projects.vercel.app** • 📚 **github.com/Organized-AI/starter-stacks** • 💬 **lu.ma/Organizedai**
 </div>
 
 </div>
@@ -996,7 +996,7 @@ Keep improving
 ### **Ready to join the Speed Revolution?**
 
 <div class="text-lg mt-4">
-<a href="https://stack.organizedai.vip" class="text-blue-300">→ Start with the Stack Evaluator</a>
+<a href="https://web-fpi95p595-jordaaans-projects.vercel.app/" class="text-blue-300">→ Start with the Stack Evaluator</a>
 </div>
 
 </div>
