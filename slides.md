@@ -442,25 +442,6 @@ layout: two-cols
 layout: center
 class: text-center
 ---
-
-# Thank You
-## Questions & Discussion
-
-<div class="mt-8">
-  <h3>Let's build the future of development education together</h3>
-  <p class="mt-4 text-lg opacity-75">Choose your track. Find your community. Start building.</p>
-</div>
-
-<div class="mt-12 flex justify-center items-center space-x-8">
-  <div>🌐 lu.ma/Organizedai</div>
-  <div>🚀 lu.ma/organizedai-starterstacks</div>
-  <div class="flex items-center gap-2">
-    <img src="/images/landscape_OG-AITX-logo-whitebackgrund.avif" class="h-6 object-contain">
-    <span>aitxcommunity.com</span>
-  </div>
-</div>
-
----
 layout: center
 class: text-center
 background: 'linear-gradient(135deg, #667eea 0%, #764ba2 100%)'
@@ -469,7 +450,7 @@ background: 'linear-gradient(135deg, #667eea 0%, #764ba2 100%)'
 # Part 2: StarterStacks
 ## The Speed Revolution
 
-<div class="text-xl mb-8">
+<div class="text-lg mb-6">
 Now let's dive into our flagship technical methodology:
 </div>
 
@@ -477,14 +458,14 @@ Now let's dive into our flagship technical methodology:
 
 ### **10 AI Tool Stacks That Get You From Idea to Users in Hours, Not Weeks**
 
+<div class="text-base space-y-2 max-w-4xl mx-auto">
+
 - Eliminates planning paralysis affecting 80% of developers
-- Session-based development optimized for Claude usage
+- Session-based development optimized for Claude usage  
 - Real success stories: 20 minutes to 3 days for complete MVPs
 - Complete organized framework for vibe coding
 
-<br>
-
-**Let's explore how organized frameworks transform vibe coding...**
+</div>
 
 </v-clicks>
 
@@ -493,55 +474,71 @@ Now let's dive into our flagship technical methodology:
 # The Vibe Coding Problem
 ## Why 80% of Development Time is Wasted
 
-<div class="grid grid-cols-1 gap-8">
+<div class="flex flex-col items-center max-w-6xl mx-auto">
 
-<div class="text-center">
+<div class="w-full max-w-3xl">
 
 ```mermaid
 graph TD
-    A[💡 Great AI Tool Idea] --> B[📋 Start Planning]
-    B --> C[🔍 Research Tech Stacks]
-    C --> D[😵‍💫 Analysis Paralysis]
-    D --> E[📚 More Research]
-    E --> F[🚫 Still Stuck]
-    F --> G[⚰️ Idea Dies]
+    A["💡 Great AI Tool Idea"] --> B["📋 Start Planning"]
+    B --> C["🔍 Research Tech Stacks"]
+    C --> D["😵‍💫 Analysis Paralysis"] 
+    D --> E["📚 More Research"]
+    E --> F["🚫 Still Stuck"]
+    F --> G["⚰️ Idea Dies"]
     G --> A
+    
+    style A fill:#4ade80,stroke:#166534,stroke-width:2px,color:#000
+    style G fill:#ef4444,stroke:#7f1d1d,stroke-width:2px,color:#fff
+    style D fill:#f59e0b,stroke:#78350f,stroke-width:2px,color:#000
 ```
-
-</div>
 
 </div>
 
 <v-clicks>
 
+<div class="mt-6 text-center">
+
 ### **The Statistics That Matter**
-- 🎯 **80% of development time** spent on architecture decisions
-- ⏱️ **3-4 weeks average** from idea to first line of code
-- 💀 **60% of projects** never start due to planning overwhelm
+<div class="grid grid-cols-3 gap-4 text-sm max-w-4xl mx-auto">
+<div>🎯 **80% of time** spent on decisions</div>
+<div>⏱️ **3-4 weeks** idea to code</div>
+<div>💀 **60% of projects** never start</div>
+</div>
+
+</div>
 
 </v-clicks>
+
+</div>
 
 ---
 
 # The Solution: Organized Vibe Coding
 ## Framework + Process = Speed
 
-<div class="grid grid-cols-2 gap-8">
+<div class="grid grid-cols-2 gap-8 max-w-5xl mx-auto">
 
-<div>
+<div class="space-y-3">
 
 ### ❌ **Traditional Approach**
+<div class="text-sm space-y-1">
+
 - "Just use React"
-- "Python is best for AI"
+- "Python is best for AI"  
 - "Start simple"
 - Generic blog advice
 - Analysis paralysis
 
 </div>
 
-<div>
+</div>
+
+<div class="space-y-3">
 
 ### ✅ **Organized Approach**
+<div class="text-sm space-y-1">
+
 - **5-question evaluator** → personalized stack
 - **Pre-built templates** → immediate start
 - **Session budgets** → predictable costs
@@ -551,9 +548,11 @@ graph TD
 
 </div>
 
+</div>
+
 <v-clicks>
 
-<div class="text-center pt-8">
+<div class="text-center pt-6">
 
 ## **Result: 20 minutes to 3 days** instead of **weeks to never**
 
@@ -563,41 +562,49 @@ graph TD
 
 ---
 
-# Visual: Stack Evaluator in Action
+# Stack Evaluator in Action
 ## https://stack.organizedai.vip
 
-<div class="grid grid-cols-2 gap-8">
+<div class="grid grid-cols-2 gap-8 max-w-5xl mx-auto">
 
-<div>
+<div class="space-y-4">
 
 ### **5 Strategic Questions**
+<div class="text-sm space-y-2">
+
 1. 👤 **Technical background?**
-   - Non-technical to AI/ML specialist
+   Non-technical to AI/ML specialist
 
 2. ⚡ **Speed needed?**
-   - 30 minutes to weekend MVP
+   30 minutes to weekend MVP
 
 3. 🛠️ **Tool type?**
-   - Chat, analysis, content, workflows
+   Chat, analysis, content, workflows
 
 4. 👥 **Team size?**
-   - Solo to enterprise
+   Solo to enterprise
 
-5. 🌐 **Deployment preference?**
-   - Cloud, edge, hybrid
+5. 🌐 **Deployment?**
+   Cloud, edge, hybrid
 
 </div>
 
-<div>
+</div>
+
+<div class="space-y-4">
 
 ### **Instant Results**
+<div class="text-sm space-y-2">
+
 - **Personalized recommendation** in 30 seconds
 - **Direct template links** to start building
 - **Session budget estimates** for Claude usage
 - **Verification checklist** included
 
+</div>
+
 <div class="text-center pt-4">
-<a href="https://stack.organizedai.vip" class="text-blue-300 text-2xl">→ Try Live Demo</a>
+<a href="https://stack.organizedai.vip" class="text-blue-300 text-lg">→ Try Live Demo</a>
 </div>
 
 </div>
@@ -606,72 +613,78 @@ graph TD
 
 ---
 
-# Visual: 10 Curated Stacks
+# 10 Curated Stacks
 ## From Minutes to Production
 
-<div class="grid grid-cols-3 gap-4 text-sm">
+<div class="max-w-6xl mx-auto">
 
-<div class="bg-green-500 bg-opacity-20 p-4 rounded">
+<div class="grid grid-cols-2 gap-6 text-sm">
 
-### **⚡ Ultra Fast**
-- **Stack 7**: v0.dev (15-30 min)
-- **Stack 8**: Zapier (No code)
-- **Stack 9**: Glitch (1-2 hours)
+<div class="space-y-4">
 
-**Perfect for**: Rapid validation, demos
-
+<div class="bg-green-500 bg-opacity-20 p-3 rounded">
+### **⚡ Ultra Fast (15min-2hrs)**
+**Stack 7**: v0.dev + StackBlitz  
+**Stack 8**: Zapier + Bubble  
+**Stack 9**: Glitch Remix
 </div>
 
-<div class="bg-blue-500 bg-opacity-20 p-4 rounded">
-
-### **🚀 Quick MVPs**
-- **Stack 1**: Next.js (1-3 days)
-- **Stack 10**: Cursor (AI-assisted)
-- **Stack 6**: Lovable (Generated)
-
-**Perfect for**: Weekend projects, hackathons
-
-</div>
-
-<div class="bg-purple-500 bg-opacity-20 p-4 rounded">
-
-### **🏗️ Production**
-- **Stack 2**: FastAPI (2-3 days)
-- **Stack 3**: React/Express (1-2 weeks)
-- **Stack 4**: n8n Workflows
-
-**Perfect for**: Real products, scale
-
+<div class="bg-blue-500 bg-opacity-20 p-3 rounded">
+### **🚀 Quick MVPs (1-3 days)**  
+**Stack 1**: Next.js + Vercel AI  
+**Stack 10**: Cursor + Copilot  
+**Stack 6**: Lovable + Supabase
 </div>
 
 </div>
 
-<div class="text-center pt-6">
+<div class="space-y-4">
 
-### **Each stack includes**: Templates + Checklists + Budget estimates + Verification steps
+<div class="bg-purple-500 bg-opacity-20 p-3 rounded">
+### **🏗️ Production (2 days-2 weeks)**
+**Stack 2**: FastAPI + Streamlit  
+**Stack 3**: React + Express  
+**Stack 4**: n8n + Supabase
+</div>
+
+<div class="bg-gray-500 bg-opacity-20 p-3 rounded">
+### **🔧 AI-Enhanced**
+**Stack 5**: Claude Code + MCP  
+All stacks include templates, checklists, budgets
+</div>
+
+</div>
+
+</div>
 
 </div>
 
 ---
 
-# Visual: Session-Based Development
+# Session-Based Development
 ## Why This Changes Everything
 
-<div class="grid grid-cols-2 gap-8">
+<div class="grid grid-cols-2 gap-8 max-w-5xl mx-auto">
 
-<div>
+<div class="space-y-4">
 
 ### **Traditional Problems**
+<div class="text-sm space-y-2">
+
 - 💸 Unpredictable Claude costs
-- 🔄 Hidden complexity explosions  
-- ⏰ No time estimates
+- 🔄 Hidden complexity explosions
+- ⏰ No time estimates  
 - 🤷‍♂️ "It depends" everywhere
 
 </div>
 
-<div>
+</div>
+
+<div class="space-y-4">
 
 ### **Our Solution**
+<div class="text-sm space-y-2">
+
 - 💰 **Token budgets** per feature
 - 📊 **Session estimates** upfront
 - ⚡ **Rate limit coordination**
@@ -681,96 +694,110 @@ graph TD
 
 </div>
 
+</div>
+
 <v-clicks>
 
+<div class="mt-6 max-w-4xl mx-auto">
+
 ### **Example Budget Planning**
+<div class="bg-gray-800 p-3 rounded text-xs">
+
 ```
-Phase 1: Core MVP (15 sessions, 2M tokens)
-Phase 2: UI Polish (8 sessions, 800K tokens)  
-Phase 3: Integrations (12 sessions, 1.5M tokens)
-Phase 4: Deployment (5 sessions, 400K tokens)
+Phase 1: Core MVP    (15 sessions, 2M tokens)
+Phase 2: UI Polish   (8 sessions, 800K tokens)  
+Phase 3: Integration (12 sessions, 1.5M tokens)
+Phase 4: Deployment  (5 sessions, 400K tokens)
 
 Total Budget: 40 sessions, 4.7M tokens ≈ $75
 ```
+
+</div>
+
+</div>
 
 </v-clicks>
 
 ---
 
-# Visual: Development Types Matter
+# Development Types Matter
 ## Choose Your Approach
 
-<div class="grid grid-cols-3 gap-6">
+<div class="max-w-6xl mx-auto">
+
+<div class="grid grid-cols-2 gap-8">
+
+<div class="space-y-4">
 
 <div class="bg-green-500 bg-opacity-20 p-4 rounded">
-
 ### **🚀 Vibe Coding**
 *Leaf nodes only*
+<div class="text-sm mt-2 space-y-1">
 
-- Fast iteration
-- Tech debt OK
+- Fast iteration, tech debt OK
 - Manual verification
 - Perfect for features
+- **Example**: Profile pages, templates
 
-**Example**: User profile page, email templates
-
+</div>
 </div>
 
 <div class="bg-blue-500 bg-opacity-20 p-4 rounded">
-
-### **🏗️ Structured**
-*Core architecture*  
+### **🏗️ Structured**  
+*Core architecture*
+<div class="text-sm mt-2 space-y-1">
 
 - Interface-first design
 - Comprehensive testing
-- Dependency planning
 - Future-proof foundations
+- **Example**: Auth, database schema
 
-**Example**: Authentication, database schema
+</div>
+</div>
 
 </div>
 
-<div class="bg-purple-500 bg-opacity-20 p-4 rounded">
+<div class="flex items-center justify-center">
 
+<div class="bg-purple-500 bg-opacity-20 p-4 rounded w-full">
 ### **🤖 Agent Development**
 *AI-powered workflows*
+<div class="text-sm mt-2 space-y-1">
 
-- Tool coordination
-- Error handling
-- Monitoring setup
-- Automation focus
+- Tool coordination & error handling
+- Monitoring setup & automation focus  
+- **Example**: CI/CD, content processing
 
-**Example**: CI/CD, content processing
-
+</div>
 </div>
 
 </div>
 
-<div class="text-center pt-6">
+</div>
 
+<div class="text-center pt-4 text-sm">
 **Key Insight**: Right approach for right component = 10x speed improvement
+</div>
 
 </div>
 
 ---
 
-# Visual: Claude Code Framework
+# Claude Code Framework
 ## Master Prompt System
 
-<div class="grid grid-cols-1 gap-6">
+<div class="max-w-5xl mx-auto">
 
-<div class="bg-gray-800 p-4 rounded text-sm">
+<div class="bg-gray-800 p-4 rounded text-xs">
 
 ```bash
 **Role**: Expert architect for [FRAMEWORK_NAME]
-**Project**: Building [TYPE] with [STACK_NAME] 
+**Project**: Building [TYPE] with [STACK_NAME]
 **Budget**: $100 Claude Max (optimize tokens)
 **Timeline**: [X] sessions (5-hour blocks)
-**Type**: [LEAF_NODE/CORE_ARCHITECTURE] development
 
 **Principles**:
-- Focus on leaf nodes (nothing depends on them)  
-- Design for verifiability without reading every line
+- Focus on leaf nodes (nothing depends on them)
 - Simple tasks: Max 5 tool calls
 - Complex features: Max 15 tool calls
 - Stop when requirements met
@@ -778,42 +805,63 @@ Total Budget: 40 sessions, 4.7M tokens ≈ $75
 
 </div>
 
-</div>
-
 <v-clicks>
 
+<div class="mt-6">
+
 ### **What This Gives You**
+<div class="grid grid-cols-2 gap-6 text-sm">
+
+<div class="space-y-2">
+
 - ✅ **Predictable token usage** - no runaway costs
-- ✅ **Quality boundaries** - clear "good enough" criteria  
-- ✅ **Verification built-in** - test without reading all code
-- ✅ **Architecture guidance** - right approach for each component
+- ✅ **Quality boundaries** - clear "good enough" criteria
+
+</div>
+
+<div class="space-y-2">
+
+- ✅ **Verification built-in** - test without reading all code  
+- ✅ **Architecture guidance** - right approach per component
+
+</div>
+
+</div>
+
+</div>
 
 </v-clicks>
+
+</div>
 
 ---
 
 # Real Success Stories
 ## Why This Actually Works
 
-<div class="grid grid-cols-2 gap-8">
+<div class="grid grid-cols-2 gap-8 max-w-5xl mx-auto">
 
-<div>
+<div class="space-y-4">
 
 ### **📊 Actual Results**
+<div class="text-sm space-y-2">
 
 - **20-minute demo**: AI content generator for client meeting
-- **2-hour system**: Non-technical founder built AI customer support  
+- **2-hour system**: Non-technical founder built AI customer support
 - **3-day deployment**: Chat interface serving 1000+ users
 - **1 week vs 1 month**: Complex AI platform with pair programming
 
 </div>
 
-<div>
+</div>
+
+<div class="space-y-4">
 
 ### **🎯 The Numbers**
+<div class="text-sm space-y-2">
 
 - **45M+ developers** worldwide need this
-- **10-50x speed improvement** over traditional planning
+- **10-50x speed improvement** over traditional planning  
 - **$1000s saved** on wrong technology choices
 - **100+ hours saved** per developer (weeks → minutes)
 
@@ -821,9 +869,11 @@ Total Budget: 40 sessions, 4.7M tokens ≈ $75
 
 </div>
 
+</div>
+
 <v-clicks>
 
-<div class="text-center pt-8 text-xl">
+<div class="text-center pt-6">
 
 **The difference**: Organized frameworks + Vibe coding + Budget management
 
@@ -833,41 +883,53 @@ Total Budget: 40 sessions, 4.7M tokens ≈ $75
 
 ---
 
-# Implementation: Start Today
-## 3 Simple Steps
+# Start Today: 3 Simple Steps
+## Implementation
 
-<div class="grid grid-cols-3 gap-8">
+<div class="grid grid-cols-3 gap-6 max-w-6xl mx-auto text-center">
 
-<div class="text-center">
+<div class="space-y-3">
 
 ### **1. Evaluate** ⚡
+<div class="text-sm space-y-2">
+
 Visit **stack.organizedai.vip**
 
-Answer 5 questions
-Get personalized stack
+Answer 5 questions  
+Get personalized stack  
 Budget estimate included
 
 </div>
 
-<div class="text-center">
+</div>
+
+<div class="space-y-3">
 
 ### **2. Build** 🚀
+<div class="text-sm space-y-2">
+
 Clone your template
 
-Follow the checklist
-Use session budgets
+Follow the checklist  
+Use session budgets  
 Verify as you go
 
 </div>
 
-<div class="text-center">
+</div>
+
+<div class="space-y-3">
 
 ### **3. Scale** 📈
+<div class="text-sm space-y-2">
+
 Join the community
 
-Share your results
-Help others succeed
+Share your results  
+Help others succeed  
 Keep improving
+
+</div>
 
 </div>
 
@@ -875,10 +937,12 @@ Keep improving
 
 <v-clicks>
 
-<div class="text-center pt-8">
+<div class="text-center pt-6">
 
 ### **Community Links**
+<div class="text-sm">
 🌐 **stack.organizedai.vip** • 📚 **github.com/Organized-AI/starter-stacks** • 💬 **lu.ma/Organizedai**
+</div>
 
 </div>
 
@@ -886,25 +950,31 @@ Keep improving
 
 ---
 
-# Why Organized Vibe Coding Wins
-## The Framework Changes Everything
+# Why Organized Frameworks Win
+## The Speed Revolution
 
-<div class="grid grid-cols-2 gap-8">
+<div class="grid grid-cols-2 gap-8 max-w-5xl mx-auto">
 
-<div>
+<div class="space-y-4">
 
 ### **Without Framework**
+<div class="text-sm space-y-2">
+
 - Every project starts from scratch
 - Repeat the same research
-- Analysis paralysis every time
+- Analysis paralysis every time  
 - Unpredictable results and costs
 - High failure rate
 
 </div>
 
-<div>
+</div>
 
-### **With Organized Framework**  
+<div class="space-y-4">
+
+### **With Organized Framework**
+<div class="text-sm space-y-2">
+
 - Pre-validated technology choices
 - Session budgets and token estimates
 - Clear verification checklists
@@ -915,13 +985,19 @@ Keep improving
 
 </div>
 
+</div>
+
 <v-clicks>
 
 <div class="text-center pt-8">
 
-## **Result: From Planning Paralysis to Shipping Products**
+## **From Planning Paralysis to Shipping Products**
 
-**Ready to join the Speed Revolution?**
+### **Ready to join the Speed Revolution?**
+
+<div class="text-lg mt-4">
+<a href="https://stack.organizedai.vip" class="text-blue-300">→ Start with the Stack Evaluator</a>
+</div>
 
 </div>
 
