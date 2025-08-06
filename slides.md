@@ -254,6 +254,211 @@ layout: two-cols
 ---
 layout: center
 class: text-center
+---
+
+# Our Events: Two Tracks, One Community
+## Bridging AI Innovation with Traditional Excellence
+
+<v-clicks>
+
+### **🚀 Vibe Coding Hackathons**
+*For AI-assisted developers learning to command tools effectively*
+- Focus on rapid iteration and AI collaboration
+- Emphasis on creative problem-solving
+- Building intuition for AI-human workflows
+
+### **⚡ Traditional Competitive Tracks**
+*For builders who want conventional coding challenges*
+- Algorithm-focused competitions
+- Performance optimization challenges
+- Classic software engineering problems
+
+<br>
+
+> *"Whether you're prompting or programming, we meet you where you are"*
+
+</v-clicks>
+
+---
+layout: center
+class: text-center
+---
+
+# Proof of Concept
+## This Actually Works
+
+<v-clicks>
+
+### **Jordaaan Hill's Journey**
+*Founder of Organized AI*
+
+- **Started**: Complete coding beginner
+- **Timeline**: 6 months of focused learning
+- **Outcome**: Landed contract at Array.com ($1.01B startup)
+- **Method**: Effective AI tool usage + community learning
+
+<br>
+
+> *"If I can do it in 6 months, imagine what a whole community can achieve together"*
+
+</v-clicks>
+
+---
+layout: two-cols
+---
+
+# Community & Partners
+
+<v-clicks>
+
+### **Current Offerings**
+- **Live Workshops**: Hands-on learning sessions
+- **Vibe Coding Hackathons**: AI-focused building
+- **Traditional Competitions**: Classic coding challenges
+- **Starter Stacks**: Pre-built development resources
+
+### **Strategic Partners**
+<div class="flex items-center gap-4 mt-4">
+  <img src="/images/landscape_OG-AITX-logo-whitebackgrund.avif" class="h-12 object-contain" alt="AITX Community Logo">
+  <div>
+    <a href="https://aitxcommunity.com" class="text-blue-300 hover:text-blue-100 font-semibold">AITX Community</a>
+    <p class="text-sm text-gray-300">AI & Tech Excellence</p>
+  </div>
+</div>
+
+### **Event Links**
+- [Main Community](https://lu.ma/Organizedai)
+- [Starter Stacks](https://lu.ma/organizedai-starterstacks)
+
+</v-clicks>
+
+::right::
+
+# Why This Approach Works
+
+<v-clicks>
+
+### **Inclusive Learning**
+- Multiple paths to the same goal
+- No judgment on methodology
+- Focus on results, not process
+
+### **Real-World Application**
+- Immediate practice opportunities
+- Building while learning
+- Community feedback loops
+
+### **Strategic Partnerships**
+- Aligned with leading AI communities
+- Shared vision for development education
+- Expanded opportunities for learners
+
+### **Market Timing**
+- AI tools reaching maturity
+- Hybrid approaches becoming norm
+- Both skills needed in industry
+
+</v-clicks>
+
+---
+layout: center
+class: text-center
+---
+
+# The Vision
+## Democratizing Professional Development
+
+<v-clicks>
+
+### **Short-term (6-12 months)**
+- 1,000+ active community members
+- Monthly live events and hackathons
+- 50+ successful career transitions
+
+### **Medium-term (1-2 years)**
+- Corporate training partnerships
+- Accredited certification program
+- Global community chapters with local events
+
+### **Long-term (3-5 years)**
+- The go-to platform for AI-powered development education
+- Alumni network at top tech companies
+- Industry-recognized dual-track methodology
+
+</v-clicks>
+
+---
+layout: two-cols
+---
+
+# Join the Revolution
+
+<v-clicks>
+
+### **For Learners**
+- Choose your track: Vibe Coding or Traditional
+- Learn through hands-on workshops
+- Connect with like-minded developers
+- Get real project experience
+
+### **For Partners & Sponsors**
+- Access to emerging talent pool
+- Sponsor innovative hackath events
+- Early involvement in new paradigm
+- Direct pipeline to motivated developers
+
+</v-clicks>
+
+::right::
+
+# Ready to Get Started?
+
+<v-clicks>
+
+### **Community Links**
+- 🌐 [Join Organized AI](https://lu.ma/Organizedai)
+- 🚀 [Starter Stacks](https://lu.ma/organizedai-starterstacks)
+
+<div class="flex items-center gap-3 mt-4 justify-center">
+  <img src="/images/landscape_OG-AITX-logo-whitebackgrund.avif" class="h-8 object-contain">
+  <a href="https://aitxcommunity.com" class="text-blue-300 hover:text-blue-100">AITX Community</a>
+</div>
+
+### **Next Events**
+- Live workshops and hackathons
+- Both Vibe Coding and Traditional tracks
+- Hands-on learning opportunities
+
+### **Contact**
+- 👨‍💻 Jordaaan Hill, Founder
+
+<br>
+
+> *"The best time to start building is now"*
+
+</v-clicks>
+
+---
+layout: center
+class: text-center
+---
+
+# Thank You
+## Questions & Discussion
+
+<div class="mt-8">
+  <h3>Let's build the future of development education together</h3>
+  <p class="mt-4 text-lg opacity-75">Choose your track. Find your community. Start building.</p>
+</div>
+
+<div class="mt-12 flex justify-center items-center space-x-8">
+  <div>🌐 lu.ma/Organizedai</div>
+  <div>🚀 lu.ma/organizedai-starterstacks</div>
+  <div class="flex items-center gap-2">
+    <img src="/images/landscape_OG-AITX-logo-whitebackgrund.avif" class="h-6 object-contain">
+    <span>aitxcommunity.com</span>
+  </div>
+</div>
 
 ---
 layout: center
@@ -261,11 +466,11 @@ class: text-center
 background: 'linear-gradient(135deg, #667eea 0%, #764ba2 100%)'
 ---
 
-# Introducing StarterStacks
+# Part 2: StarterStacks
 ## The Speed Revolution
 
 <div class="text-xl mb-8">
-Now let's dive deep into our flagship methodology:
+Now let's dive into our flagship technical methodology:
 </div>
 
 <v-clicks>
@@ -275,37 +480,14 @@ Now let's dive deep into our flagship methodology:
 - Eliminates planning paralysis affecting 80% of developers
 - Session-based development optimized for Claude usage
 - Real success stories: 20 minutes to 3 days for complete MVPs
-- Complete implementation methodology
+- Complete organized framework for vibe coding
 
 <br>
 
-**Let's explore how we're transforming AI tool development...**
+**Let's explore how organized frameworks transform vibe coding...**
 
 </v-clicks>
 
-
-# StarterStacks
-## The Speed Revolution
-
-**10 AI Tool Stacks That Get You From Idea to Users in Hours, Not Weeks**
-
-<div class="pt-12">
-  <span @click="$slidev.nav.next" class="px-2 py-1 rounded cursor-pointer" hover="bg-white bg-opacity-10">
-    Press Space for next page <carbon:arrow-right class="inline"/>
-  </span>
-</div>
-
-<div class="abs-br m-6 flex gap-2">
-  <button @click="$slidev.nav.openInEditor()" title="Open in Editor" class="text-xl slidev-icon-btn opacity-50 !border-none !hover:text-white">
-    <carbon:edit />
-  </button>
-  <a href="https://stack.organizedai.vip" target="_blank" alt="StarterStacks Evaluator" class="text-xl slidev-icon-btn opacity-50 !border-none !hover:text-white">
-    <carbon:launch />
-  </a>
-</div>
-
----
-transition: fade-out
 ---
 
 # The Vibe Coding Problem
