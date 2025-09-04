@@ -1,7 +1,7 @@
 # Organized AI Pitch Deck
 
 A comprehensive Slidev presentation showcasing Organized AI as the premier community for new developers leveraging AI tools, plus our flagship StarterStacks methodology with perfectly framed, visual slides that fit all screen sizes.
-
+🌐 **Live Presentation**: https://organized-ai.github.io/pitch-deck/ (50 slides total - Part 1: Community & StarterStacks, Part 2: AI Opportunity Identification)
 🌐 **Live Presentation**: https://organized-ai.github.io/pitch-deck
 
 ## Presentation Structure (34 Total Slides)
