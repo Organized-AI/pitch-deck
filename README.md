@@ -119,3 +119,7 @@ npm run export
 ---
 
 **Organized AI: Perfectly Framed Presentation for All Display Types** | **34 Slides with Guaranteed Visual Fit**
+
+---
+
+Maintained by Jordaaan Hill ([LinkedIn](https://www.linkedin.com/in/jordaaanhill)).
